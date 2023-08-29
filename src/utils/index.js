@@ -200,13 +200,13 @@ export const AvailableSizes = [{
 ]
 
 export const firebaseConfig = {
-    apiKey: "AIzaSyDHglv-wN5-exfsCG9p_N1l3-EgOfxxKRY",
+    apiKey: "",
     authDomain: "next-js-ecommerce-2023-e446b.firebaseapp.com",
     projectId: "next-js-ecommerce-2023-e446b",
     storageBucket: "next-js-ecommerce-2023-e446b.appspot.com",
-    messagingSenderId: "273787392941",
-    appId: "1:273787392941:web:6c7c36c416e4db74a74724",
-    measurementId: "G-86GF9WFQW0"
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
 };
 export const firebaseStorageURL = 'gs://next-js-ecommerce-2023-e446b.appspot.com'
 
